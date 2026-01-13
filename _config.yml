@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://0xdanje.github.io" # the subpath of your site, e.g. /blog
+baseurl: ""
 
 #plugins:
 #  - jekyll-simple-icons # added to support simple icons in contact options
